@@ -7,7 +7,3 @@ line5
 line7
 
 line9
-
-tpoivavalnkfam
-
-fakljfla
